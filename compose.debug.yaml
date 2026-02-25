@@ -1,0 +1,6 @@
+services:
+  ps1:
+    image: ps1
+    build:
+      context: .
+      dockerfile: ./Dockerfile
