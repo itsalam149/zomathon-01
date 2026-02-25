@@ -1,0 +1,1 @@
+[{"Model":"Baseline (Naive FOR)","MAE":4.7326630078,"RMSE":5.9782601325,"P50 Error":3.8990419309,"P90 Error":9.9157139533},{"Model":"Improved (Signal Engineering)","MAE":3.1679263549,"RMSE":4.2067508939,"P50 Error":2.3810337341,"P90 Error":7.054590501}]
